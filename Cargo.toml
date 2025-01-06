@@ -1,0 +1,7 @@
+[package]
+name = "quantum_algorithms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+quantum = { git = "https://github.com/beneills/quantum.git", version = "0.1.3" }
